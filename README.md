@@ -1,6 +1,4 @@
-## Hi there, I'm Nessy Pangaribuan 👋
-
-![Nessy Pangaribuan](IMG/typing-text (1).gif)
+![Nessy Pangaribuan](IMG/typing-text.gif)
 
 
 
