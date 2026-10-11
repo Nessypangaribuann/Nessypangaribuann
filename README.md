@@ -1,4 +1,4 @@
-![Nessy Pangaribuan](IMG/typing-svg.svg)
+<img src="IMG/typing-svg.svg" width="700" alt="Nessy Pangaribuan">
 
 ---
 
@@ -22,15 +22,15 @@ I'm passionate about continuous learning, problem-solving, and exploring new tec
 
 <p align="left">
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="45" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="30" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="YOUR_INSTAGRAM_URL">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" width="45" alt="Instagram" />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" width="30" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="50" alt="Gmail" />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="30" alt="Gmail" />
   </a>
 </p>
 
