@@ -32,15 +32,15 @@ I'm passionate about continuous learning, problem-solving, and exploring new tec
 #### 🌐 Let's Get in Touch
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/nessypangaribuan">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="30" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="YOUR_INSTAGRAM_URL">
+  <a href="https://www.instagram.com/nessypangaribuan_">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" width="30" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:nessypangaribuan1@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="30" alt="Gmail" />
   </a>
 </p>
@@ -51,21 +51,8 @@ I'm passionate about continuous learning, problem-solving, and exploring new tec
 
 ##### 🎧💭 A Little Corner of Mine
 
-<table style="border: none; border-collapse: collapse; width: 100%;">
-  <tr>
-    <td width="50%" align="center" style="border: none; padding: 0;">
-      <img
-        src="https://spotify-github-profile.kittinanx.com/api/view?uid=9po2jqexhxdhuic4byzdw2zsn&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=light"
-        width="100%"
-        alt="Spotify widget"
-      />
-    </td>
-    <td width="50%" align="center" style="border: none; padding: 0;">
-      <img
-        src="./IMG/quotes.svg"
-        width="100%"
-        alt="Animated quotes"
-      />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=9po2jqexhxdhuic4byzdw2zsn&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=light">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=9po2jqexhxdhuic4byzdw2zsn&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=light" width="49%" alt="Spotify widget" />
+  </a><img src="./IMG/quotes.svg" width="49%" alt="Animated quotes" />
+</div>
