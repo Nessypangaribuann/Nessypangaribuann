@@ -1,0 +1,181 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 700 180"
+     width="700" height="180">
+
+  <rect width="700" height="180" rx="16" fill="#201a16"/>
+
+  <text x="350" y="32"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="16"
+        letter-spacing="3"
+        fill="#A99478">THOUGHTS TO GROW BY</text>
+
+
+  <style>
+    .quote {
+  font-family: "Fira Code", monospace;
+  font-size: 25px;
+  fill: #DCC7A1;
+  text-anchor: middle;
+  opacity: 0;
+}
+    .q1 { animation: show 150s infinite 0s; }
+    .q2 { animation: show 150s infinite 5s; }
+    .q3 { animation: show 150s infinite 10s; }
+    .q4 { animation: show 150s infinite 15s; }
+    .q5 { animation: show 150s infinite 20s; }
+    .q6 { animation: show 150s infinite 25s; }
+    .q7 { animation: show 150s infinite 30s; }
+    .q8 { animation: show 150s infinite 35s; }
+    .q9 { animation: show 150s infinite 40s; }
+    .q10 { animation: show 150s infinite 45s; }
+    .q11 { animation: show 150s infinite 50s; }
+    .q12 { animation: show 150s infinite 55s; }
+    .q13 { animation: show 150s infinite 60s; }
+    .q14 { animation: show 150s infinite 65s; }
+    .q15 { animation: show 150s infinite 70s; }
+    .q16 { animation: show 150s infinite 75s; }
+    .q17 { animation: show 150s infinite 80s; }
+    .q18 { animation: show 150s infinite 85s; }
+    .q19 { animation: show 150s infinite 90s; }
+    .q20 { animation: show 150s infinite 95s; }
+    .q21 { animation: show 150s infinite 100s; }
+    .q22 { animation: show 150s infinite 105s; }
+    .q23 { animation: show 150s infinite 110s; }
+    .q24 { animation: show 150s infinite 115s; }
+    .q25 { animation: show 150s infinite 120s; }
+    .q26 { animation: show 150s infinite 125s; }
+    .q27 { animation: show 150s infinite 130s; }
+    .q28 { animation: show 150s infinite 135s; }
+    .q29 { animation: show 150s infinite 140s; }
+    .q30 { animation: show 150s infinite 145s; }
+
+    @keyframes show {
+      0%, 0.5% { opacity: 0; }
+      1%, 2.8% { opacity: 1; }
+      3.3%, 100% { opacity: 0; }
+    }
+  </style>
+
+  <g class="quote q1">
+    <text x="350" y="85">Every expert was once</text>
+    <text x="350" y="120">a beginner.</text>
+  </g>
+  <g class="quote q2">
+    <text x="350" y="85">Growth begins where</text>
+    <text x="350" y="120">comfort ends.</text>
+  </g>
+  <g class="quote q3">
+    <text x="350" y="85">Progress matters more</text>
+    <text x="350" y="120">than perfection.</text>
+  </g>
+  <g class="quote q4">
+    <text x="350" y="85">Small steps still move</text>
+    <text x="350" y="120">you forward.</text>
+  </g>
+  <g class="quote q5">
+    <text x="350" y="85">Stay curious in a world</text>
+    <text x="350" y="120">that keeps changing.</text>
+  </g>
+  <g class="quote q6">
+    <text x="350" y="85">You do not need all</text>
+    <text x="350" y="120">the answers to begin.</text>
+  </g>
+  <g class="quote q7">
+    <text x="350" y="85">Mistakes are proof</text>
+    <text x="350" y="120">that you are trying.</text>
+  </g>
+  <g class="quote q8">
+    <text x="350" y="85">Be patient with the</text>
+    <text x="350" y="120">person you are becoming.</text>
+  </g>
+  <g class="quote q9">
+    <text x="350" y="85">Consistency turns effort</text>
+    <text x="350" y="120">into progress.</text>
+  </g>
+  <g class="quote q10">
+    <text x="350" y="85">Keep learning, keep building,</text>
+    <text x="350" y="120">keep becoming.</text>
+  </g>
+  <g class="quote q11">
+    <text x="350" y="85">First, understand the problem;</text>
+    <text x="350" y="120">then write the code.</text>
+  </g>
+  <g class="quote q12">
+    <text x="350" y="85">Good code begins</text>
+    <text x="350" y="120">with clear thinking.</text>
+  </g>
+  <g class="quote q13">
+    <text x="350" y="85">Every bug is a chance</text>
+    <text x="350" y="120">to learn something new.</text>
+  </g>
+  <g class="quote q14">
+    <text x="350" y="85">Simplicity comes from</text>
+    <text x="350" y="120">deep understanding.</text>
+  </g>
+  <g class="quote q15">
+    <text x="350" y="85">Code is a tool;</text>
+    <text x="350" y="120">problem-solving is the skill.</text>
+  </g>
+  <g class="quote q16">
+    <text x="350" y="85">Build solutions that make</text>
+    <text x="350" y="120">someone's life easier.</text>
+  </g>
+  <g class="quote q17">
+    <text x="350" y="85">Readable code is kindness</text>
+    <text x="350" y="120">to your future self.</text>
+  </g>
+  <g class="quote q18">
+    <text x="350" y="85">Learn the fundamentals</text>
+    <text x="350" y="120">before chasing trends.</text>
+  </g>
+  <g class="quote q19">
+    <text x="350" y="85">Think critically, experiment</text>
+    <text x="350" y="120">carefully, learn continuously.</text>
+  </g>
+  <g class="quote q20">
+    <text x="350" y="85">Technology matters when</text>
+    <text x="350" y="120">it solves real problems.</text>
+  </g>
+  <g class="quote q21">
+    <text x="350" y="85">Data becomes valuable</text>
+    <text x="350" y="120">when it guides decisions.</text>
+  </g>
+  <g class="quote q22">
+    <text x="350" y="85">Look beyond the numbers</text>
+    <text x="350" y="120">to discover the story.</text>
+  </g>
+  <g class="quote q23">
+    <text x="350" y="85">Good analysis starts</text>
+    <text x="350" y="120">with the right question.</text>
+  </g>
+  <g class="quote q24">
+    <text x="350" y="85">Evidence is stronger</text>
+    <text x="350" y="120">than assumptions.</text>
+  </g>
+  <g class="quote q25">
+    <text x="350" y="85">A correlation is a clue,</text>
+    <text x="350" y="120">not always a cause.</text>
+  </g>
+  <g class="quote q26">
+    <text x="350" y="85">Clean data supports</text>
+    <text x="350" y="120">clearer conclusions.</text>
+  </g>
+  <g class="quote q27">
+    <text x="350" y="85">Turn information into insight</text>
+    <text x="350" y="120">and insight into action.</text>
+  </g>
+  <g class="quote q28">
+    <text x="350" y="85">You can begin before</text>
+    <text x="350" y="120">you feel ready.</text>
+  </g>
+  <g class="quote q29">
+    <text x="350" y="85">Your journey is yours;</text>
+    <text x="350" y="120">you don't need to copy others.</text>
+  </g>
+  <g class="quote q30">
+    <text x="350" y="85">Keep moving forward,</text>
+    <text x="350" y="120">one small step at a time.</text>
+  </g>
+</svg>

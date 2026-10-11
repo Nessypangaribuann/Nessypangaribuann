@@ -1,28 +1,56 @@
-![Nessy Pangaribuan](IMG/typing-text.gif)
+![Nessy Pangaribuan](IMG/typing-svg.svg)
 
+---
 
+#### 👤 About Me
 
-<!--
-How to make this gif ?
+Recently graduated with a Bachelor's degree in Information Systems from Institut Teknologi Del, with a strong interest in IT, Data Analytics, and Technology-Driven Solutions. I enjoy exploring how data and technology can be used to solve problems, uncover insights, and support better decision-making.
 
-I made my with https://codesandbox.io/s/github-profile-2ijk7
-Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
-This [gist](https://gist.github.com/tskaggs/6394639) help me to create a dedicated command that convert MOV to GIF.
-Type this command `make generate-gif` to generate [assets/github.gif](assets/github.gif)
--->
+I'm passionate about continuous learning, problem-solving, and exploring new technologies across the IT field.
 
-<!--
-**Nessypangaribuann/Nessypangaribuann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"Turning data and technology into meaningful insights and solutions."* ✨
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-vdsivid
+#### 🛠️ Tech Stack & Tools
+
+<!-- Add your tech stack icons here -->
+
+---
+
+#### 🌐 Let's Get in Touch
+
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="45" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="YOUR_INSTAGRAM_URL">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" width="45" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="50" alt="Gmail" />
+  </a>
+</p>
+
+---
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://spotify-github-profile.kittinanx.com/api/view?uid=9po2jqexhxdhuic4byzdw2zsn&amp;cover_image=true&amp;theme=apple&amp;show_offline=false&amp;background_color=452d0d&amp;interchange=false&amp;profanity=false&amp;hide_remaster=false&amp;mode=light"
+        width="100%"
+        alt="Spotify widget"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="./IMG/quotes.svg"
+        width="100%"
+        alt="Animated quotes"
+      />
+    </td>
+  </tr>
+</table>
