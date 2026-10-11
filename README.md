@@ -51,17 +51,16 @@ I'm passionate about continuous learning, problem-solving, and exploring new tec
 
 ##### 🎧💭 A Little Corner of Mine
 
-
 <div align="center">
-  <img
-    src="https://spotify-github-profile.kittinanx.com/api/view?uid=9po2jqexhxdhuic4byzdw2zsn&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=light"
-    width="47%"
-    alt="Spotify widget"
-  />
-  <img
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=9po2jqexhxdhuic4byzdw2zsn&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=light">
+    <img
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=9po2jqexhxdhuic4byzdw2zsn&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=light"
+      width="47%"
+      alt="Spotify widget"
+    />
+  </a><img
     src="./IMG/quotes.svg"
-    height="75"
-    width="52%"
+    width="47%"
     alt="Animated quotes"
   />
 </div>
