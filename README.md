@@ -1,4 +1,4 @@
-<img src="IMG/typing-svg.svg" width="1000" alt="Nessy Pangaribuan">
+<img src="IMG/typing-svg.svg" width="1000" height="150" alt="Nessy Pangaribuan">
 
 ---
 
