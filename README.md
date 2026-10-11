@@ -50,7 +50,7 @@ I'm passionate about continuous learning, problem-solving, and exploring new tec
 <!-- CURRENTLY, RANDOMLY -->
 
 ##### 🎧💭 A Little Corner of Mine
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%" align="center">
       <img
