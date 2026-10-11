@@ -50,16 +50,17 @@ I'm passionate about continuous learning, problem-solving, and exploring new tec
 <!-- CURRENTLY, RANDOMLY -->
 
 ##### 🎧💭 A Little Corner of Mine
-<table border="0" cellspacing="0" cellpadding="0">
+
+<table style="border: none; border-collapse: collapse; width: 100%;">
   <tr>
-    <td width="50%" align="center">
+    <td width="50%" align="center" style="border: none; padding: 0;">
       <img
         src="https://spotify-github-profile.kittinanx.com/api/view?uid=9po2jqexhxdhuic4byzdw2zsn&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=light"
         width="100%"
         alt="Spotify widget"
       />
     </td>
-    <td width="50%" align="center">
+    <td width="50%" align="center" style="border: none; padding: 0;">
       <img
         src="./IMG/quotes.svg"
         width="100%"
