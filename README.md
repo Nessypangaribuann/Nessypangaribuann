@@ -1,11 +1,12 @@
-<img src="IMG/typing-svg.svg" width="1000" height="150" alt="Nessy Pangaribuan">
+<img src="IMG/typing-svg.svg" width="1000" alt="Nessy Pangaribuan">
 
 ---
 
 #### 👤 About Me
 
+<p align="justify">
 Recently graduated with a Bachelor's degree in Information Systems from Institut Teknologi Del, with a strong interest in IT, Data Analytics, and Technology-Driven Solutions. I enjoy exploring how data and technology can be used to solve problems, uncover insights, and support better decision-making.
-
+<p align="justify">
 I'm passionate about continuous learning, problem-solving, and exploring new technologies across the IT field.
 
 > *"Turning data and technology into meaningful insights and solutions."* ✨
@@ -15,6 +16,16 @@ I'm passionate about continuous learning, problem-solving, and exploring new tec
 #### 🛠️ Tech Stack & Tools
 
 <!-- Add your tech stack icons here -->
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau" />
+  <!-- <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=looker&logoColor=white" alt="Looker Studio" /> -->
+  <!-- <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" /> -->
+</p>
+
 
 ---
 
@@ -35,12 +46,15 @@ I'm passionate about continuous learning, problem-solving, and exploring new tec
 </p>
 
 ---
+<!-- JUST FOR THE VIBES -->
+<!-- CURRENTLY, RANDOMLY -->
 
+##### 🎧💭 A Little Corner of Mine
 <table>
   <tr>
     <td width="50%" align="center">
       <img
-        src="https://spotify-github-profile.kittinanx.com/api/view?uid=9po2jqexhxdhuic4byzdw2zsn&amp;cover_image=true&amp;theme=apple&amp;show_offline=false&amp;background_color=452d0d&amp;interchange=false&amp;profanity=false&amp;hide_remaster=false&amp;mode=light"
+        src="https://spotify-github-profile.kittinanx.com/api/view?uid=9po2jqexhxdhuic4byzdw2zsn&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=light"
         width="100%"
         alt="Spotify widget"
       />
